@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I make cool things! 😎
+# I make cool things! 😎
 <!--
 **MarooJones/MarooJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
